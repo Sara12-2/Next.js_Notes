@@ -43,25 +43,18 @@ Benefits include:
 # 🏗 Next.js Architecture
 
 ```text
-Application
-
-│
+ Next.js Application
 
 ├── App Router
-│
-├── Layout
-│
-├── Pages
+│    ├── Pages
+│    ├── Layouts
+│    ├── Server Components
+│    └── API Routes
 │
 ├── Components
-│
-├── API Routes
-│
-├── Server Components
-│
-├── Client Components
-│
-└── Assets
+├── Styles
+├── Public Assets
+└── Configuration
 ```
 
 ---
